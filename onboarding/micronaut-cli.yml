@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: onboarding
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, assertj, camunda, gradle, h2, http-client, java, java-application, junit, logback, jetty-server, readme, shade, yaml]
