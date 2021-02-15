@@ -24,6 +24,9 @@ dependencies {
     implementation("io.micronaut:micronaut-runtime")
     implementation("io.micronaut:micronaut-http-client")
     runtimeOnly("ch.qos.logback:logback-classic")
+
+    implementation("info.novatec:micronaut-camunda-bpm-feature:0.18.1")
+    runtimeOnly("com.h2database:h2")
 }
 
 
